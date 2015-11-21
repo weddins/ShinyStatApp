@@ -1,7 +1,8 @@
 My Friend's Shiny Stat App
 ========================================================
-author: Bill Eddins
-date: `r format(Sys.Date(), format="%B %d %Y")`
+author: Bill Eddins  
+
+date: `r format(Sys.Date(), format="%B %d %Y")`  
 
 Introduction
 ========================================================

@@ -1,7 +1,8 @@
 My Friend's Shiny Stat App
 ========================================================
-author: Bill Eddins
-date: November 21 2015
+author: Bill Eddins  
+
+date: November 21 2015  
 
 Introduction
 ========================================================
